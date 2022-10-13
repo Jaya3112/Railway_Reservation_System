@@ -12,7 +12,7 @@
 - The database should be stored in computer rather than storing all the records manually.
 - It improve the railway services and also solve lots of problem of system. 
 
-# Features
+## Features
 
 - Surfing of data is easy.
 - The wait time of the passenger will be reduced.

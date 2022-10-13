@@ -2,7 +2,7 @@
 
 - This system is basically concerned with online reservation of railway tickets to the passengers.
 - In this project shows how reservation is done. 
-- Store and retrieve information about the various transactions realted to rail travel.
+- Store and retrieve information about the various transactions related to rail travel.
 - Keep track of all passengers and thus schedule their journey accordingly.
 - Maintains records of passengers travelling in the different dates reaching different destinations.
   

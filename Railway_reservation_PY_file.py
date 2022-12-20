@@ -126,6 +126,13 @@ def ticketreservation():
     print('2. Second Class AC Rs 9000 per person')
     print('1. Third Class AC Rs 8000 per person')
     print('1. Sleeper Class Rs 7000 per person')
+    print()
+    print('Tname is 3 for Ayodhya Express from Bangalore:-')
+    print()
+    print('1. First Class AC Rs 7000 per person')
+    print('2. Second Class AC Rs 6500 per person')
+    print('1. Third Class AC Rs 5500 per person')
+    print('1. Sleeper Class Rs 2000 per person')
 
     tname=(input('Enter your choice of Train Name please->'))
     print(tname)
